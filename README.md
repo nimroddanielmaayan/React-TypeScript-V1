@@ -1,1 +1,1 @@
-A React + TypeScript practice project
+A React + TypeScript practice project.
